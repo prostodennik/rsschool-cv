@@ -13,13 +13,13 @@
 Hello, my name is Denis, I started working as a front-end developer in 2021, when I realized that I had burnt out in my previous profession, I decided to get a new interesting skill, which then moved into the profession, which I am very happy about.
 I am constantly developing in this direction and learn something new.
 
-* My strengths:
-  * I am a quick learner.
-  * I am a hard worker.
-  * I am a team player.
-  * I am a good communicator.
-  * I am a good listener.
-  * I am a good problem solver.
+ * My strengths:
+    * I am a quick learner.
+    * I am a hard worker.
+    * I am a team player.
+    * I am a good communicator.
+    * I am a good listener.
+    * I am a good problem solver.
 >Keep learning…
 
 # Experience
