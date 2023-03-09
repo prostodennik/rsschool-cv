@@ -5,7 +5,7 @@
 # My Contact Info:
 
 
-1. Phone: +7 (916) 152-93-19
+1. Telegram: @den_is_in
 2. Email: denisdemin@protonmail.com
 
 # About Me
