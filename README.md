@@ -1,1 +1,1 @@
-# rsschool-cv
+https://prostodennik.github.io/rsschool-cv/cv
